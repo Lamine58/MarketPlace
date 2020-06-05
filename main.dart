@@ -1,6 +1,6 @@
 main(){
 
-  // var comme JS
+  // var comme JS5
 
   print(5);
 
